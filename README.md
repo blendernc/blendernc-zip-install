@@ -17,11 +17,11 @@ Science visualization is a fundamental part of science communication and explora
 
 - Quick load of netCDFs:
 
-<img src="https://raw.githubusercontent.com/blendernc/blendernc/distribution/quick_load_gif.gif" width="70%" />
+<img src="https://raw.githubusercontent.com/blendernc/blendernc/distribution/docs/images/quick_load_gif.gif" width="70%" />
 
 - Nodes tree for more complex visualizations:
 
-<img src="https://raw.githubusercontent.com/blendernc/blendernc/distribution/GEBCO_blendernc.png" width="70%" />
+<img src="https://raw.githubusercontent.com/blendernc/blendernc/distribution/docs/images/GEBCO_blendernc.png" width="70%" />
 
 - Math computations in BlenderNC node tree.
 
