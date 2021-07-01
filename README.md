@@ -13,7 +13,7 @@ BlenderNC builds upon [**xarray**](https://github.com/pydata/xarray) and [**dask
 
 #### Why BlenderNC?
 
-Science visualization is a fundamental part of science communication and exploration of large datasets. However, production quality real-time visualization and animation of scientific data has remain unreachable to the scientific community. BlenderNC main goal is to facilitate generation of quality animations of scientific gridded data with a powerful and simple interface. For example:
+Science visualization is a fundamental part of science communication and the exploration of large datasets. However, production quality real-time visualization and animation of scientific data has remained unreachable to the scientific community. BlenderNC main goal is to facilitate the generation of quality animations of scientific gridded data with a powerful and simple interface. For example:
 
 - Quick load of netCDFs:
 
@@ -28,7 +28,7 @@ Science visualization is a fundamental part of science communication and explora
 Documentation
 -------------
 
-Lear more about BlenderNC in the official documentation at [https://blendernc.readthedocs.io](https://blendernc.readthedocs.io)
+Learn more about BlenderNC in the official documentation at [https://blendernc.readthedocs.io](https://blendernc.readthedocs.io)
 
 Contributing
 ------------
